@@ -1,0 +1,297 @@
+EmployeeKey,ParentEmployeeKey,EmployeeNationalIDAlternateKey,SalesTerritoryKey,FirstName,LastName,MiddleName,Title,HireDate,BirthDate,YearsOfService
+1,18.0,14417807,11,Guy,Gilbert,R,Production Technician - WC60,2006-01-28,1981-11-12,18
+2,7.0,253022876,11,Kevin,Brown,F,Marketing Assistant,2006-08-26,1986-12-01,18
+3,14.0,509647174,11,Roberto,Tamburello,NULL,Engineering Manager,2007-06-11,1974-06-12,17
+4,3.0,112457891,11,Rob,Walters,NULL,Senior Tool Designer,2007-07-05,1974-07-23,17
+5,3.0,112457891,11,Rob,Walters,NULL,Senior Tool Designer,2007-07-05,1974-07-23,17
+6,267.0,480168528,11,Thierry,D'Hers,B,Tool Designer,2007-07-11,1959-02-26,17
+7,112.0,24756624,11,David,Bradley,M,Marketing Manager,2007-07-20,1974-10-17,17
+8,112.0,24756624,11,David,Bradley,M,Marketing Manager,2007-07-20,1974-10-17,17
+9,23.0,309738752,11,JoLynn,Dobney,M,Production Supervisor - WC60,2007-07-26,1955-08-16,17
+10,189.0,690627818,11,Ruth,Ellerbrock,Ann,Production Technician - WC10,2007-08-06,1956-01-03,17
+11,3.0,695256908,11,Gail,Erickson,A,Design Engineer,2007-08-06,1952-04-27,17
+12,189.0,912265825,11,Barry,Johnson,K,Production Technician - WC10,2007-08-07,1955-10-25,17
+13,3.0,998320692,11,Jossef,Goldberg,H,Design Engineer,2007-08-24,1958-10-09,17
+14,112.0,245797967,11,Terri,Duffy,Lee,Vice President of Engineering,2007-08-31,1971-03-01,17
+15,189.0,844973625,11,Sidney,Higa,M,Production Technician - WC10,2007-09-02,1956-03-30,17
+16,23.0,233069302,11,Taylor,Maxwell,R,Production Supervisor - WC50,2007-09-08,1955-10-31,17
+17,189.0,132674823,11,Jeffrey,Ford,L,Production Technician - WC10,2007-09-20,1956-02-09,17
+18,23.0,446466105,11,Jo,Brown,A,Production Supervisor - WC60,2007-09-27,1956-05-08,17
+19,189.0,565090917,11,Doris,Hartwig,M,Production Technician - WC10,2007-10-09,1955-11-03,17
+20,23.0,494170342,11,John,Campbell,T,Production Supervisor - WC60,2007-10-16,1956-03-07,17
+21,189.0,9659517,11,Diane,Glimp,R,Production Technician - WC10,2007-10-27,1955-10-28,17
+22,177.0,443968955,11,Steven,Selikoff,T,Production Technician - WC30,2008-07-01,1976-12-12,16
+23,112.0,277173473,11,Peter,Krebs,J,Production Control Manager,2008-07-01,1982-06-03,16
+24,201.0,835460180,11,Stuart,Munson,V,Production Technician - WC45,2008-07-02,1962-04-13,16
+25,201.0,687685941,11,Greg,Alderson,F,Production Technician - WC45,2008-07-02,1975-11-15,16
+26,188.0,498138869,11,David,Johnson,N,Production Technician - WC30,2008-07-02,1979-06-02,16
+27,23.0,360868122,11,Zheng,Mu,W,Production Supervisor - WC10,2008-07-03,1983-05-26,16
+28,111.0,964089218,11,Ivo,Salmre,William,Production Technician - WC20,2008-07-04,1981-08-03,16
+29,89.0,384162788,11,Paul,Komosinski,B,Production Technician - WC40,2008-07-04,1980-06-13,16
+30,154.0,749389530,11,Ashvini,Sharma,R,Network Administrator,2008-07-04,1976-10-25,16
+31,16.0,571658797,11,Kendall,Keil,C,Production Technician - WC50,2008-07-05,1985-12-28,16
+32,143.0,535145551,11,Paula,Barreto de Mattos,M,Human Resources Manager,2008-07-06,1975-09-11,16
+33,214.0,761597760,11,Alejandro,McGuel,E,Production Technician - WC40,2008-07-06,1988-07-05,16
+34,188.0,271438431,11,Garrett,Young,R,Production Technician - WC30,2008-07-07,1984-03-25,16
+35,138.0,160739235,11,Jian Shuo,Wang,NULL,Production Technician - WC30,2008-07-07,1983-02-24,16
+36,87.0,586486572,11,Susan,Eaton,W,Stocker,2008-07-07,1977-09-17,16
+37,87.0,337752649,11,Vamsi,Kuppa,N,Shipping and Receiving Clerk,2008-07-07,1976-10-16,16
+38,40.0,113695504,11,Alice,Ciccu,O,Production Technician - WC50,2008-07-07,1977-08-26,16
+39,9.0,276751903,11,Simon,Rapier,D,Production Technician - WC60,2008-07-08,1989-12-15,16
+40,23.0,630184120,11,Jinghao,Liu,K,Production Supervisor - WC50,2008-07-08,1988-09-05,16
+41,186.0,545337468,11,Michael,Hines,T,Production Technician - WC20,2008-07-09,1989-12-15,16
+42,163.0,713403643,11,Yvonne,McKay,S,Production Technician - WC45,2008-07-09,1988-11-13,16
+43,204.0,885055826,11,Peng,Wu,J,Quality Assurance Supervisor,2008-07-09,1975-10-17,16
+44,112.0,441044382,11,Jean,Trenary,E,Information Services Manager,2008-07-11,1975-07-13,16
+45,76.0,718299860,11,Russell,Hunter,NULL,Production Technician - WC50,2008-07-12,1972-06-25,16
+46,23.0,685233686,11,A. Scott,Wright,NULL,Master Scheduler,2008-07-12,1968-04-17,16
+47,214.0,295971920,11,Fred,Northup,T,Production Technician - WC40,2008-07-12,1989-01-23,16
+48,7.0,95958330,11,Sariya,Harnpadoungsataya,E,Marketing Specialist,2008-07-12,1986-12-19,16
+49,32.0,332040978,11,Willis,Johnson,T,Recruiter,2008-07-13,1978-02-15,16
+50,40.0,857651804,11,Jun,Cao,T,Production Technician - WC50,2008-07-14,1979-02-03,16
+51,222.0,553069203,11,Christian,Kleinerman,E,Maintenance Supervisor,2008-07-14,1975-08-18,16
+52,188.0,351069889,11,Susan,Metters,A,Production Technician - WC30,2008-07-14,1982-10-31,16
+53,23.0,370989364,11,Reuben,D'sa,H,Production Supervisor - WC40,2008-07-15,1987-03-27,16
+54,126.0,275962311,11,Kirk,Koenigsbauer,J,Production Technician - WC45,2008-07-15,1984-09-06,16
+55,20.0,36151748,11,David,Ortiz,J,Production Technician - WC60,2008-07-15,1984-07-29,16
+56,92.0,540688287,11,Tengiz,Kharatishvili,N,Control Specialist,2008-07-16,1989-11-26,16
+57,147.0,568596888,11,Hanying,Feng,P,Production Technician - WC20,2008-07-16,1974-05-16,16
+58,214.0,918737118,11,Kevin,Liu,H,Production Technician - WC40,2008-07-17,1985-07-25,16
+59,18.0,801758002,11,Annik,Stahl,O,Production Technician - WC60,2008-07-17,1976-07-26,16
+60,40.0,415823523,11,Suroor,Fatima,R,Production Technician - WC50,2008-07-17,1977-09-25,16
+61,142.0,363923697,11,Deborah,Poe,E,Accounts Receivable Specialist,2008-07-18,1975-10-05,16
+62,76.0,674171828,11,Jim,Scardelis,H,Production Technician - WC50,2008-07-19,1986-04-08,16
+63,177.0,138280935,11,Carole,Poland,M,Production Technician - WC30,2008-07-19,1983-05-19,16
+64,188.0,476115505,11,George,Li,Z,Production Technician - WC30,2008-07-21,1976-11-14,16
+65,89.0,502058701,11,Gary,Yukish,W,Production Technician - WC40,2008-07-22,1987-12-15,16
+66,23.0,7201901,11,Cristian,Petculescu,K,Production Supervisor - WC10,2008-07-22,1983-11-10,16
+67,147.0,97728960,11,Raymond,Sam,K,Production Technician - WC20,2008-07-23,1966-09-30,16
+68,44.0,525932996,11,Janaina,Bueno,Barreiro Gambaro,Application Specialist,2008-07-23,1984-08-30,16
+69,16.0,843479922,11,Bob,Hohman,N,Production Technician - WC50,2008-07-24,1979-03-16,16
+70,214.0,370487086,11,Shammi,Mohamed,G,Production Technician - WC40,2008-07-24,1980-05-04,16
+71,40.0,54759846,11,Linda,Moschell,K,Production Technician - WC50,2008-07-25,1987-02-14,16
+72,32.0,619308550,11,Mindy,Martin,C,Benefits Specialist,2008-07-25,1984-06-20,16
+73,143.0,121491555,11,Wendy,Kahn,Beth,Finance Manager,2008-07-25,1984-05-11,16
+74,87.0,420776180,11,Kim,Ralls,T,Stocker,2008-07-26,1983-11-29,16
+75,138.0,604664374,11,Sandra,ReÂ tegui Alayo,NULL,Production Technician - WC30,2008-07-26,1975-06-05,16
+76,23.0,778552911,11,Kok-Ho,Loh,T,Production Supervisor - WC50,2008-07-27,1979-11-27,16
+77,163.0,435234965,11,Douglas,Hite,B,Production Technician - WC45,2008-07-27,1985-06-24,16
+78,9.0,339712426,11,James,Kramer,D,Production Technician - WC60,2008-07-27,1984-02-23,16
+79,43.0,403414852,11,Sean,Alexander,P,Quality Assurance Technician,2008-07-28,1975-10-05,16
+80,186.0,368920189,11,Nitin,Mirchandani,S,Production Technician - WC20,2008-07-28,1986-07-01,16
+81,162.0,811994146,11,Diane,Margheim,L,Research and Development Engineer,2008-07-29,1986-01-03,16
+82,18.0,330211482,11,Rebecca,Laszlo,A,Production Technician - WC60,2008-07-29,1988-02-04,16
+83,214.0,632092621,11,Rajesh,Patel,M,Production Technician - WC40,2008-07-31,1977-05-04,16
+84,32.0,264306399,11,Vidur,Luthra,X,Recruiter,2008-08-01,1984-03-01,16
+85,40.0,981597097,11,John,Evans,P,Production Technician - WC50,2008-08-01,1977-12-29,16
+86,9.0,693325305,11,Nancy,Anderson,A,Production Technician - WC60,2008-08-02,1988-06-19,16
+87,23.0,521265716,11,Pilar,Ackerman,G,Shipping and Receiving Supervisor,2008-08-02,1972-04-09,16
+88,188.0,746373306,11,David,Yalovsky,A,Production Technician - WC30,2008-08-02,1981-03-03,16
+89,23.0,750905084,11,David,Hamilton,P,Production Supervisor - WC40,2008-08-03,1983-01-30,16
+90,126.0,514829225,11,Laura,Steele,C,Production Technician - WC45,2008-08-03,1980-07-25,16
+91,18.0,750246141,11,Margie,Shoop,W,Production Technician - WC60,2008-08-04,1985-12-18,16
+92,204.0,345106466,11,Zainal,Arifin,T,Document Control Manager,2008-08-04,1975-08-30,16
+93,214.0,19312190,11,Lorraine,Nay,O,Production Technician - WC40,2008-08-04,1988-06-26,16
+94,147.0,212801092,11,Fadi,Fakhouri,K,Production Technician - WC20,2008-08-04,1988-09-15,16
+95,53.0,769680433,11,Ryan,Cornelsen,L,Production Technician - WC40,2008-08-05,1972-01-12,16
+96,142.0,60517918,11,Candy,Spoon,L,Accounts Receivable Specialist,2008-08-06,1975-09-23,16
+97,76.0,431859843,11,Nuan,Yu,NULL,Production Technician - WC50,2008-08-06,1978-10-27,16
+98,46.0,621209647,11,William,Vong,S,Scheduling Assistant,2008-08-07,1981-06-06,16
+99,46.0,621209647,11,William,Vong,S,Scheduling Assistant,2008-08-07,1981-06-06,16
+100,177.0,420023788,11,Bjorn,Rettig,M,Production Technician - WC30,2008-08-07,1989-06-06,16
+101,201.0,199546871,11,Scott,Gode,R,Production Technician - WC45,2008-08-08,1986-09-10,16
+102,89.0,830150469,11,Michael,Rothkugel,L,Production Technician - WC40,2008-08-10,1990-08-04,16
+103,147.0,322160340,11,Lane,Sacksteder,M,Production Technician - WC20,2008-08-11,1974-04-23,16
+104,16.0,827686041,11,Pete,Male,C,Production Technician - WC50,2008-08-11,1976-09-03,16
+105,44.0,671089628,11,Dan,Bacon,K,Application Specialist,2008-08-11,1981-01-24,16
+106,143.0,231203233,11,David,Barber,M,Assistant to the Chief Financial Officer,2008-08-12,1964-01-20,16
+107,76.0,204035155,11,Lolan,Song,B,Production Technician - WC50,2008-08-12,1972-08-24,16
+108,214.0,992874797,11,Paula,Nartker,R,Production Technician - WC40,2008-08-12,1986-09-10,16
+109,7.0,767955365,11,Mary,Gibson,E,Marketing Specialist,2008-08-12,1962-04-13,16
+110,40.0,342607223,11,Mindaugas,Krapauskas,J,Production Technician - WC50,2008-08-13,1977-12-05,16
+111,23.0,45615666,11,Eric,Gubbels,NULL,Production Supervisor - WC20,2008-08-14,1984-08-19,16
+112,noKey,295847284,11,Ken,SÂ nchez,J,Chief Executive Officer,2008-08-14,1968-08-29,16
+113,138.0,733022683,11,Jason,Watters,M,Production Technician - WC30,2008-08-14,1988-07-07,16
+114,43.0,381772114,11,Mark,Harrington,L,Quality Assurance Technician,2008-08-15,1985-11-28,16
+115,163.0,187369436,11,Janeth,Esteves,M,Production Technician - WC45,2008-08-15,1972-02-22,16
+116,188.0,364818297,11,Marc,Ingle,J,Production Technician - WC30,2008-08-16,1986-05-24,16
+117,162.0,658797903,11,Gigi,Matthew,N,Research and Development Engineer,2008-08-16,1978-08-21,16
+118,111.0,886023130,11,Paul,Singh,R,Production Technician - WC20,2008-08-17,1990-06-04,16
+119,214.0,749211824,11,Frank,Lee,T,Production Technician - WC40,2008-08-17,1987-04-06,16
+120,44.0,643805155,11,FranÂois,Ajenstat,P,Database Administrator,2008-08-17,1980-06-13,16
+121,16.0,92096924,11,Diane,Tibbott,H,Production Technician - WC50,2008-08-18,1989-03-09,16
+122,7.0,72636981,11,Jill,Williams,A,Marketing Specialist,2008-08-18,1979-01-16,16
+123,40.0,563680513,11,Angela,Barbariol,W,Production Technician - WC50,2008-08-20,1990-12-29,16
+124,87.0,584205124,11,Matthias,Berndt,T,Shipping and Receiving Clerk,2008-08-20,1973-06-11,16
+125,9.0,458159238,11,Bryan,Baker,NULL,Production Technician - WC60,2008-08-21,1973-03-27,16
+126,23.0,712885347,11,Jeff,Hay,V,Production Supervisor - WC45,2008-08-21,1976-08-15,16
+127,188.0,87268837,11,Eugene,Zabokritski,R,Production Technician - WC30,2008-08-21,1987-02-12,16
+128,186.0,969985265,11,Barbara,Decker,S,Production Technician - WC20,2008-08-22,1984-07-29,16
+129,126.0,539490372,11,Chris,Preston,T,Production Technician - WC45,2008-08-22,1988-07-16,16
+130,92.0,242381745,11,Sean,Chai,N,Document Control Assistant,2008-08-22,1986-10-10,16
+131,44.0,929666391,11,Dan,Wilson,B,Database Administrator,2008-08-22,1975-08-06,16
+132,18.0,948320468,11,Mark,McArthur,K,Production Technician - WC60,2008-08-23,1979-04-25,16
+133,142.0,931190412,11,Bryan,Walton,A,Accounts Receivable Specialist,2008-08-24,1984-04-20,16
+134,76.0,153288994,11,Houman,Pournasseh,N,Production Technician - WC50,2008-08-25,1971-03-30,16
+135,46.0,981495526,11,Sairaj,Uddin,L,Scheduling Assistant,2008-08-26,1987-07-22,16
+136,177.0,363996959,11,Michiko,Osada,F,Production Technician - WC30,2008-08-26,1982-01-25,16
+137,188.0,585408256,11,Benjamin,Martin,R,Production Technician - WC30,2008-08-27,1985-08-05,16
+138,23.0,386315192,11,Cynthia,Randall,S,Production Supervisor - WC30,2008-08-27,1981-03-18,16
+139,201.0,167554340,11,Kathie,Flood,E,Production Technician - WC45,2008-08-27,1990-06-01,16
+140,18.0,410742000,11,Britta,Simon,L,Production Technician - WC60,2008-08-29,1989-04-28,16
+141,214.0,746201340,11,Brian,Lloyd,T,Production Technician - WC40,2008-08-29,1976-09-10,16
+142,143.0,30845,11,David,Liu,J,Accounts Manager,2008-08-30,1983-02-05,16
+143,112.0,184188301,11,Laura,Norman,F,Chief Financial Officer,2008-08-31,1975-08-06,16
+144,112.0,184188301,11,Laura,Norman,F,Chief Financial Officer,2008-08-31,1975-08-06,16
+145,40.0,398737566,11,Michael,Patten,W,Production Technician - WC50,2008-08-31,1973-12-01,16
+146,138.0,764853868,11,Andy,Ruth,M,Production Technician - WC30,2008-08-31,1983-05-20,16
+147,23.0,319472946,11,Yuhong,Li,L,Production Supervisor - WC20,2008-09-01,1976-11-04,16
+148,163.0,456839592,11,Robert,Rounthwaite,J,Production Technician - WC45,2008-09-02,1984-09-28,16
+149,43.0,131471224,11,Andreas,Berglund,T,Quality Assurance Technician,2008-09-02,1988-10-26,16
+150,188.0,259388196,11,Reed,Koch,T,Production Technician - WC30,2008-09-02,1988-08-08,16
+151,147.0,812797414,11,Linda,Randall,A,Production Technician - WC20,2008-09-03,1977-05-05,16
+152,112.0,519899904,11,James,Hamilton,R,Vice President of Production,2008-09-03,1988-02-04,16
+153,44.0,314747499,11,Ramesh,Meyyappan,V,Application Specialist,2008-09-03,1987-10-12,16
+154,44.0,858323870,11,Stephanie,Conroy,A,Network Manager,2008-09-04,1983-10-24,16
+155,111.0,25011600,11,Samantha,Smith,H,Production Technician - WC20,2008-09-04,1987-06-22,16
+156,214.0,436757988,11,Tawana,Nusbaum,G,Production Technician - WC40,2008-09-05,1989-06-10,16
+157,16.0,652535724,11,Denise,Smith,H,Production Technician - WC50,2008-09-05,1988-02-04,16
+158,32.0,416679555,11,Hao,Chen,O,Human Resources Administrative Assistant,2008-09-06,1976-11-15,16
+159,126.0,377784364,11,Alex,Nayberg,M,Production Technician - WC45,2008-09-08,1989-11-11,16
+160,9.0,66073987,11,Eugene,Kogan,O,Production Technician - WC60,2008-09-08,1975-09-10,16
+161,18.0,999440576,11,Brandon,Heidepriem,G,Production Technician - WC60,2008-09-08,1976-08-10,16
+162,3.0,134969118,11,Dylan,Miller,A,Research and Development Manager,2008-09-08,1986-09-24,16
+163,23.0,551834634,11,Shane,Kim,S,Production Supervisor - WC45,2008-09-08,1989-12-22,16
+164,186.0,305522471,11,John,Chen,Y,Production Technician - WC20,2008-09-09,1985-11-03,16
+165,92.0,260770918,11,Karen,Berge,R,Document Control Assistant,2008-09-09,1975-07-25,16
+166,18.0,788456780,11,Jose,Lugo,R,Production Technician - WC60,2008-09-10,1984-02-29,16
+167,76.0,370581729,11,Mandar,Samant,H,Production Technician - WC50,2008-09-10,1985-10-19,16
+168,278.0,603686790,11,Mikael,Sandberg,Q,Buyer,2008-09-10,1984-03-17,16
+169,76.0,152085091,11,Sameer,Tejani,A,Production Technician - WC50,2008-09-11,1978-01-24,16
+170,142.0,663843431,11,Dragan,Tomic,K,Accounts Payable Specialist,2008-09-11,1976-09-14,16
+171,177.0,227319668,11,Carol,Philips,M,Production Technician - WC30,2008-09-12,1988-05-17,16
+172,89.0,578953538,11,Rob,Caron,T,Production Technician - WC40,2008-09-13,1973-03-04,16
+173,40.0,222400012,11,Don,Hall,L,Production Technician - WC50,2008-09-13,1971-01-11,16
+174,46.0,470689086,11,Alan,Brewer,J,Scheduling Assistant,2008-09-13,1983-10-28,16
+175,188.0,860123571,11,David,Lawrence,Oliver,Production Technician - WC30,2008-09-14,1985-04-23,16
+176,89.0,273260055,11,Baris,Cetinok,F,Production Technician - WC40,2008-09-15,1990-05-07,16
+177,23.0,578935259,11,Michael,Ray,Sean,Production Supervisor - WC30,2008-09-15,1988-08-29,16
+178,20.0,752513276,11,Steve,Masters,F,Production Technician - WC60,2008-09-15,1990-11-04,16
+179,18.0,754372876,11,Suchitra,Mohan,O,Production Technician - WC60,2008-09-16,1987-01-08,16
+180,44.0,58317344,11,Karen,Berg,A,Application Specialist,2008-09-16,1977-12-17,16
+181,147.0,404159499,11,Terrence,Earls,W,Production Technician - WC20,2008-09-16,1984-07-08,16
+182,142.0,363910111,11,Barbara,Moreland,C,Accountant,2008-09-18,1975-08-04,16
+183,40.0,599942664,11,Chad,Niswonger,W,Production Technician - WC50,2008-09-18,1990-03-04,16
+184,138.0,993310268,11,Rostislav,Shabalin,E,Production Technician - WC30,2008-09-19,1977-04-13,16
+185,201.0,20244403,11,Belinda,Newman,M,Production Technician - WC45,2008-09-20,1974-10-15,16
+186,23.0,862951447,11,Katie,McAskill-White,L,Production Supervisor - WC20,2008-09-20,1984-06-18,16
+187,188.0,551346974,11,Russell,King,M,Production Technician - WC30,2008-09-21,1981-09-11,16
+188,23.0,60114406,11,Jack,Richins,S,Production Supervisor - WC30,2008-09-21,1983-01-20,16
+189,23.0,33237992,11,Andrew,Hill,R,Production Supervisor - WC10,2008-09-22,1988-04-06,16
+190,89.0,1300049,11,Nicole,Holliday,B,Production Technician - WC40,2008-09-22,1985-11-07,16
+191,16.0,10708100,11,Frank,Miller,T,Production Technician - WC50,2008-09-23,1971-02-21,16
+192,154.0,672243793,11,Peter,Connelly,I,Network Administrator,2008-09-23,1979-12-27,16
+193,111.0,63761469,11,Anibal,Sousa,T,Production Technician - WC20,2008-09-23,1974-04-05,16
+194,214.0,693168613,11,Ken,Myer,L,Production Technician - WC40,2008-09-24,1980-12-26,16
+195,32.0,476980013,11,Grant,Culbertson,N,Human Resources Administrative Assistant,2008-09-25,1975-11-15,16
+196,40.0,334834274,11,Michael,Entin,T,Production Technician - WC50,2008-09-25,1989-01-13,16
+197,163.0,399658727,11,Lionel,Penuchot,C,Production Technician - WC45,2008-09-26,1987-10-13,16
+198,9.0,500412746,11,Thomas,Michaels,R,Production Technician - WC60,2008-09-26,1985-08-10,16
+199,87.0,652779496,11,Jimmy,Bischoff,T,Stocker,2008-09-26,1990-06-01,16
+200,138.0,878395493,11,Michael,Vanderhyde,T,Production Technician - WC30,2008-09-26,1982-04-18,16
+201,23.0,332349500,11,Lori,Kane,A,Production Supervisor - WC45,2008-09-26,1980-02-16,16
+202,278.0,792847334,11,Arvind,Rao,B,Buyer,2008-09-28,1974-03-21,16
+203,186.0,621932914,11,Stefen,Hesse,A,Production Technician - WC20,2008-09-28,1975-07-21,16
+204,23.0,398223854,11,Hazem,Abolrous,E,Quality Assurance Manager,2008-09-28,1977-05-26,16
+205,142.0,519756660,11,Janet,Sheperdigian,L,Accounts Payable Specialist,2008-09-29,1978-10-07,16
+206,76.0,912141525,11,Elizabeth,Keyser,I,Production Technician - WC50,2008-09-30,1989-08-25,16
+207,7.0,243322160,11,Terry,Eminhizer,J,Marketing Specialist,2008-09-30,1985-09-04,16
+208,188.0,568626529,11,John,Frum,N,Production Technician - WC30,2008-10-01,1981-10-22,16
+209,177.0,301435199,11,Merav,Netz,A,Production Technician - WC30,2008-10-01,1982-12-11,16
+210,46.0,368691270,11,Brian,LaMee,P,Scheduling Assistant,2008-10-01,1984-03-11,16
+211,40.0,211789056,11,Kitti,Lertpiriyasuwat,H,Production Technician - WC50,2008-10-02,1987-01-04,16
+212,20.0,63179277,11,Jay,Adams,G,Production Technician - WC60,2008-10-03,1975-09-11,16
+213,188.0,587567941,11,Jan,Miksovsky,S,Production Technician - WC30,2008-10-03,1974-06-15,16
+214,23.0,634335025,11,Brenda,Diaz,M,Production Supervisor - WC40,2008-10-03,1982-09-28,16
+215,126.0,65848458,11,Andrew,Cencini,M,Production Technician - WC45,2008-10-04,1988-04-24,16
+216,92.0,260805477,11,Chris,Norred,K,Control Specialist,2008-10-04,1986-12-24,16
+217,18.0,442121106,11,Chris,Okelberry,O,Production Technician - WC60,2008-10-05,1986-03-07,16
+218,147.0,300946911,11,Shelley,Dyck,N,Production Technician - WC20,2008-10-05,1986-07-08,16
+219,214.0,440379437,11,Gabe,Mares,B,Production Technician - WC40,2008-10-06,1987-12-09,16
+220,142.0,480951955,11,Mike,Seamans,K,Accountant,2008-10-06,1979-01-29,16
+221,162.0,879342154,11,Michael,Raheem,NULL,Research and Development Manager,2008-12-01,1984-06-30,16
+222,152.0,141165819,11,Gary,Altman,E.,Facilities Manager,2009-07-02,1970-09-18,15
+223,20.0,537092325,11,Charles,Fitzgerald,B,Production Technician - WC60,2009-07-03,1971-04-02,15
+224,27.0,455563743,11,Ebru,Ersan,N,Production Technician - WC10,2009-07-06,1986-04-22,15
+225,111.0,701156975,11,Sylvester,Valdez,A,Production Technician - WC20,2009-07-11,1970-06-12,15
+226,53.0,1662732,11,Brian,Goldstein,Richard,Production Technician - WC40,2009-07-11,1970-07-23,15
+227,278.0,407505660,11,Linda,Meisner,P,Buyer,2009-07-17,1970-06-30,15
+228,66.0,294148271,11,Betsy,Stadick,A,Production Technician - WC10,2009-07-18,1942-07-17,15
+229,222.0,552560652,11,Magnus,Hedlund,E,Facilities Administrative Assistant,2009-07-21,1971-03-27,15
+230,20.0,834186596,11,Karan,Khanna,R,Production Technician - WC60,2009-07-22,1969-10-05,15
+231,27.0,717889520,11,Mary,Baker,R,Production Technician - WC10,2009-07-25,1986-04-19,15
+232,27.0,801365500,11,Kevin,Homer,M,Production Technician - WC10,2009-07-25,1986-04-19,15
+233,53.0,413787783,11,Mihail,Frintu,U,Production Technician - WC40,2009-07-29,1970-10-07,15
+234,189.0,109272464,11,Bonnie,Kearney,N,Production Technician - WC10,2009-08-01,1986-04-10,15
+235,278.0,482810518,11,Fukiko,Ogisu,J,Buyer,2009-08-04,1970-06-24,15
+236,111.0,113393530,11,Hung-Fu,Ting,T,Production Technician - WC20,2009-08-06,1971-05-23,15
+237,278.0,466142721,11,Gordon,Hee,L,Buyer,2009-08-11,1942-06-29,15
+238,66.0,390124815,11,Kimberly,Zimmerman,B,Production Technician - WC10,2009-08-12,1986-04-13,15
+239,18.0,6298838,11,Kim,Abercrombie,B,Production Technician - WC60,2009-08-16,1942-07-14,15
+240,53.0,943170460,11,Sandeep,Kaliyath,P,Production Technician - WC40,2009-08-17,1970-07-03,15
+241,111.0,339233463,11,Prasanna,Samarawickrama,E,Production Technician - WC20,2009-08-22,1952-11-28,15
+242,278.0,367453993,11,Frank,Pellow,S,Buyer,2009-08-23,1951-12-11,15
+243,111.0,872923042,11,Min,Su,G,Production Technician - WC20,2009-08-24,1974-04-10,15
+244,53.0,697712387,11,Eric,Brown,L,Production Technician - WC40,2009-08-24,1942-07-08,15
+245,278.0,381073001,11,Eric,Kurjan,S,Buyer,2009-08-27,1972-04-17,15
+246,51.0,646304055,11,Pat,Coleman,H,Janitor,2009-08-27,1970-07-03,15
+247,20.0,414476027,11,Maciej,Dusza,W,Production Technician - WC60,2009-08-29,1954-08-30,15
+248,278.0,785853949,11,Erin,Hagens,M,Buyer,2009-08-31,1970-08-04,15
+249,66.0,90888098,11,Patrick,Wedge,C,Production Technician - WC10,2009-09-01,1986-04-10,15
+250,53.0,947029962,11,Frank,Martinez,R,Production Technician - WC40,2009-09-05,1951-10-01,15
+251,18.0,461786517,11,Ed,Dudenhoefer,R,Production Technician - WC60,2009-09-05,1971-04-11,15
+252,27.0,393421437,11,Christopher,Hill,E,Production Technician - WC10,2009-09-08,1986-05-01,15
+253,53.0,988315686,11,Patrick,Cook,M,Production Technician - WC40,2009-09-12,1973-07-23,15
+254,111.0,56772045,11,Krishna,Sunkammurali,NULL,Production Technician - WC20,2009-09-13,1971-04-05,15
+255,51.0,879334904,11,Lori,Penor,K,Janitor,2009-09-16,1970-02-28,15
+256,66.0,82638150,11,Danielle,Tiedt,C,Production Technician - WC10,2009-09-20,1986-04-07,15
+257,43.0,343861179,11,Sootha,Charncherngkha,T,Quality Assurance Technician,2009-09-23,1942-07-05,15
+258,20.0,582347317,11,Michael,Zwilling,J,Production Technician - WC60,2009-09-23,1973-04-05,15
+259,20.0,8066363,11,Randy,Reeves,T,Production Technician - WC60,2009-09-23,1969-11-26,15
+260,27.0,561196580,11,John,Kane,T,Production Technician - WC10,2009-09-27,1986-04-28,15
+261,53.0,58791499,11,Jack,Creasey,T,Production Technician - WC40,2009-10-01,1973-03-29,15
+262,111.0,163347032,11,Olinda,Turner,C,Production Technician - WC20,2009-10-02,1969-11-02,15
+263,51.0,28414965,11,Stuart,Macrae,J,Janitor,2009-10-03,1971-07-17,15
+264,51.0,153479919,11,Jo,Berry,L,Janitor,2009-10-05,1953-11-22,15
+265,278.0,20269531,11,Ben,Miller,T,Buyer,2009-10-07,1973-01-01,15
+266,66.0,826454897,11,Tom,Vande Velde,M,Production Technician - WC10,2009-10-08,1986-05-01,15
+267,3.0,974026903,11,Ovidiu,Cracium,V,Senior Tool Designer,2010-07-05,1977-08-17,14
+268,278.0,437296311,11,Annette,Hill,L,Purchasing Assistant,2010-07-06,1977-08-29,14
+269,267.0,486228782,11,Janice,Galvin,M,Tool Designer,2010-07-23,1988-12-26,14
+270,278.0,280633567,11,Reinout,Hillmann,N,Purchasing Assistant,2010-07-25,1977-08-17,14
+271,3.0,42487730,11,Michael,Sullivan,I,Senior Design Engineer,2010-07-30,1979-01-14,14
+272,277.0,502097814,11,Stephen,Jiang,Y,North American Sales Manager,2010-08-04,1951-05-17,14
+273,7.0,323403273,11,Wanida,Benshoof,M,Marketing Assistant,2010-08-07,1974-10-15,14
+274,3.0,56920285,11,Sharon,Salavaria,B,Design Engineer,2010-08-18,1960-11-30,14
+275,7.0,222969461,11,John,Wood,L,Marketing Specialist,2010-09-07,1977-10-04,14
+276,7.0,52541318,11,Mary,Dempsey,A,Marketing Assistant,2010-09-14,1977-08-29,14
+277,112.0,112432117,11,Brian,Welcker,S,Vice President of Sales,2010-09-15,1977-01-04,14
+278,73.0,895209680,11,Sheela,Word,H,Purchasing Manager,2010-09-25,1977-09-10,14
+279,73.0,895209680,11,Sheela,Word,H,Purchasing Manager,2010-09-25,1977-09-10,14
+280,73.0,895209680,11,Sheela,Word,H,Purchasing Manager,2010-09-25,1977-09-10,14
+281,272.0,841560125,2,Michael,Blythe,G,Sales Representative,2010-12-29,1968-07-25,14
+282,272.0,191644724,4,Linda,Mitchell,C,Sales Representative,2010-12-29,1979-09-27,14
+283,272.0,615389812,3,Jillian,Carson,NULL,Sales Representative,2010-12-29,1962-03-29,14
+284,272.0,234474252,6,Garrett,Vargas,R,Sales Representative,2010-12-29,1974-09-04,14
+285,272.0,716374314,5,Tsvi,Reiter,Michael,Sales Representative,2010-12-29,1973-08-18,14
+286,272.0,61161660,1,Pamela,Ansman-Wolfe,O,Sales Representative,2010-12-29,1974-07-06,14
+287,272.0,139397894,4,Shu,Ito,K,Sales Representative,2010-12-29,1943-10-08,14
+288,272.0,399771412,6,JosÂ,Saraiva,Edvaldo,Sales Representative,2010-12-29,1939-07-11,14
+289,272.0,987554265,1,David,Campbell,R,Sales Representative,2010-12-29,1973-09-11,14
+290,277.0,982310417,11,Amy,Alberts,E,European Sales Manager,2011-11-15,1957-04-20,13
+291,290.0,668991357,10,Jae,Pak,B,Sales Representative,2011-12-29,1967-10-16,13
+292,290.0,134219713,7,Ranjit,Varkey Chudukatil,R,Sales Representative,2011-12-29,1975-04-30,13
+293,272.0,90836195,1,Tete,Mensa-Annan,A,Sales Representative,2012-04-30,1977-08-05,12
+294,277.0,481044938,11,Syed,Abbas,E,Pacific Sales Manager,2012-10-12,1974-08-11,12
+295,290.0,954276278,8,Rachel,Valdez,B,Sales Representative,2012-12-28,1975-02-06,12
+296,294.0,758596752,9,Lynn,Tsoflias,N,Sales Representative,2012-12-28,1970-10-16,12
